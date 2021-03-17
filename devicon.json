@@ -2462,6 +2462,27 @@
             ]
         },
         "color": "#2369bc",
+    },
+    {
+        "name": "raspberrypi",
+        "tags": [
+            "arm", 
+            "computer"],
+        "versions": {
+            "svg": [
+                "original", 
+                "original-wordmark", 
+                "plain", 
+                "plain-wordmark"
+            ],
+            "font": [
+                "original", 
+                "original-wordmark", 
+                "plain", 
+                "plain-wordmark"
+            ]
+        },
+        "color": "#6cc04a",
         "aliases": []
     },
     {
